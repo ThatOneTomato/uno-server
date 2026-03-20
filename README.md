@@ -1,6 +1,6 @@
-# Messenger Server
+# ChatMog Server
 
-A **simple messenger server** built with JavaScript for websites, with extensive upcoming features!
+A **simple ChatMog Server** built with JavaScript for websites, with extensive upcoming features!
 
 ## Features
 - A robust backend written 100% in JavaScript.
@@ -23,7 +23,7 @@ Upcoming features:
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm install serverside
    ```
 
 3. Run the server:
